@@ -1,0 +1,5 @@
+C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\bin\Release\BrewduinoCatalogLib.dll
+C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\bin\Release\BrewduinoCatalogLib.pdb
+C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\obj\Release\BrewduinoCatalogLib.dll
+C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\obj\Release\BrewduinoCatalogLib.pdb
+C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\obj\Release\BrewduinoCatalogLib.csprojResolveAssemblyReference.cache

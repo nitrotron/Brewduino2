@@ -1,0 +1,8 @@
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Brewduino2.dll.config
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Brewduino2.dll
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Brewduino2.pdb
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Newtonsoft.Json.dll
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Newtonsoft.Json.xml
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.csprojResolveAssemblyReference.cache
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.dll
+C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.pdb
