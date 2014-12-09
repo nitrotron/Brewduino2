@@ -13,8 +13,8 @@
         <asp:ScriptManager runat="server" EnablePageMethods="true">
         </asp:ScriptManager>
     </form>
-    <h1>Hello {{message}}!</h1>
-    <input type="text" ng-model="message" placeholder="Enter your name">
+    <h1>Hello {{messageX}}!</h1>
+    <input type="text" ng-model="messageX" placeholder="Enter your name">
     <p>
         {{prntArray}} {{currentRow}}
         <input type="text" ng-model="currentRow">
@@ -23,6 +23,8 @@
     <div ng-click="fromServerArray()" class="btn btn-primary">Get From Server</div>
     <div ng-click="jumpToIt(1)"  class="btn btn-primary">Jump To It!</div>
     <div ng-click="jumpToItAgain()" class="btn btn-primary">Jump to just one</div>
+    <div  ng-click="getStatus()" class="btn btn-primary">Get Status</div>
+    <br />{{arduino}}
 
     <script src="Scripts/jquery-2.1.1.js"></script>
     <script src="Scripts/bootstrap.js"></script>

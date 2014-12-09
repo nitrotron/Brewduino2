@@ -79,6 +79,8 @@ namespace BrewduinoCatalogLib
 
             return response;
         }
+
+        
         public void ClearAlarms(ThermometersName whichThermo)
         {
             string command = ((int)whichThermo).ToString();

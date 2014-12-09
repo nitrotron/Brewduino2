@@ -21,7 +21,7 @@
 
     //helloWorld.controller('helloWorldCtrl', function ($scope, zzz, pageMethods, business) {
     helloWorld.controller('helloWorldCtrl', function ($scope, zzz, pageMethods) {
-        $scope.message = "Plunker";
+        $scope.message = "Plunkfdsafaer";
         $scope.zzz = zzz;
         $scope.currentRow = 1;
         //$scope.nextRow = 0;
@@ -48,6 +48,12 @@
             pageMethods.SingleJunkData($scope.currentRow, function (data) {
                 $scope.zzz[$scope.currentRow] = data;
                 console.log(data);
+            });
+        };
+
+        $scope.getStatus = function () {
+            pageMethods.GetStatus(function (data) {
+                $scope.arduino = data;
             });
         };
         //$scope.jumpToIt = business.jumpToIt($scope);

@@ -6,3 +6,12 @@ C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Newtonsof
 C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.csprojResolveAssemblyReference.cache
 C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.dll
 C:\Users\jessica\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.pdb
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Brewduino2.dll
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Brewduino2.pdb
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Newtonsoft.Json.dll
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\Newtonsoft.Json.xml
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.csprojResolveAssemblyReference.cache
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.dll
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\obj\Debug\Brewduino2.pdb
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\BrewduinoCatalogLib.dll
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\Brewduino2\Brewduino2\bin\BrewduinoCatalogLib.pdb

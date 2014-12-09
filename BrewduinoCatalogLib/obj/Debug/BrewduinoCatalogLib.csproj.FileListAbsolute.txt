@@ -3,3 +3,8 @@ C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\bin\Debug\Brewdu
 C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\obj\Debug\BrewduinoCatalogLib.dll
 C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\obj\Debug\BrewduinoCatalogLib.pdb
 C:\Users\jessica\Documents\GitHub\Brewduino\BrewduinoCatalogLib\obj\Debug\BrewduinoCatalogLib.csprojResolveAssemblyReference.cache
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\BrewduinoCatalogLib\bin\Debug\BrewduinoCatalogLib.dll
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\BrewduinoCatalogLib\bin\Debug\BrewduinoCatalogLib.pdb
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\BrewduinoCatalogLib\obj\Debug\BrewduinoCatalogLib.csprojResolveAssemblyReference.cache
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\BrewduinoCatalogLib\obj\Debug\BrewduinoCatalogLib.dll
+C:\Users\tmetcalf\Documents\GitHub\Brewduino2\BrewduinoCatalogLib\obj\Debug\BrewduinoCatalogLib.pdb
